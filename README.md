@@ -8,7 +8,7 @@ Cohort: **Salesforce**
 
 Team Member Names:**Daniel Ortiz, David Barcenas, Eva Sennrich**
 
-Mentors Names: **Pamela Taylor-Paris, {Davids Mentor}, {Evas Mentor}**
+Mentors Names: **Pamela Taylor-Paris, Yucheng Wang, Priya Mittal**
 
 Project Code Repository Links
 
