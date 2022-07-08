@@ -6,7 +6,7 @@ SITE Course Year: **2022**
 
 Cohort: **Salesforce**
 
-Team Member Names:**David Barcenas, Eva Sennrich, Daniel Ortiz**
+Team Member Names:**Daniel Ortiz, David Barcenas, Eva Sennrich**
 
 Mentors Names: **Pamela Taylor-Paris, {Davids Mentor}, {Evas Mentor}**
 
