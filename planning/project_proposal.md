@@ -9,7 +9,7 @@ How to have fun in a new city? This is a problem every intern will deal with, so
 ## Description
 **What is the main purpose of your project?**
 
-To provide networking and excursion opportunities for professional interns looking to connect with other interns in their city, providing exploring opportunities, and help them break the ice with their own cohorts through engaging activities outside of work. As well as to provide a platform for buisnesses to seamlessly plan events for the intern cohorts of their own, garunteed to be fun by us. 
+To provide networking and excursion opportunities for professional interns looking to connect with other interns in their city, providing exploring opportunities, and help them break the ice with their own cohorts through engaging activities outside of work. As well as to provide a platform for buisnesses to seamlessly plan events for the intern cohorts of their own, guaranteed to be fun by us. 
 
 **What are the key features your site has to offer its users?**
 
