@@ -1,14 +1,13 @@
 # Project Proposal
 
-Pod Members: **Daniel Ortiz**
+Pod Members: **Daniel Ortiz, David Barcenas, Eva Sennrich**
 
 ## Problem Statement
 
 How to have fun in a new city? This is a problem every intern will deal with, so we will build an event search + social app specifically for professional interns who are looking to have fun AND network with other interns from other companies, best of both worlds. 
 
 ## Description
-**
-What is the main purpose of your project?**
+**What is the main purpose of your project?**
 
 To provide networking and excursion opportunities for professional interns looking to connect with other interns in their city, providing exploring opportunities, and help them break the ice with their own cohorts through engaging activities outside of work. As well as to provide a platform for buisnesses to seamlessly plan events for the intern cohorts of their own, garunteed to be fun by us. 
 
