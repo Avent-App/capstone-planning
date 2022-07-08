@@ -40,6 +40,7 @@ Interns in general, Tech or otherwise.
 - The feature to make events paid or free. Can buy tickets directly through the app.
 - Adding upvotes for events and sort by most upvotes (can be amount of people going to the event)
 - Share button to post on social media an event you RSVP'd for.
+- Set category section for events for couple, friends, family etc.
 
 ## Stretch Features
 
