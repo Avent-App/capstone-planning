@@ -25,39 +25,7 @@ Interns in general, Tech or otherwise.
 
 ## Expected Features List
 
-- Create filters for a business, vs personal, vs public event.
 
-- create categories for type of events → boil down a “describable” event into one of a few categories, and apply recommendations based on the “fundamental” category.
-
-- Suggested content/events for people who are registered and have a user profile.
-
-- Way to search for similar events with keywords. (AI recommendations)
-
-- Ability to join a thread for the event. Talk to others that are interested in participating and RSVP directly with the event host.
-
-- Feature to rate hosts based on their performance.
-
-- Hosts may have a profile with pictures of previous events that they have hosted.
-
-- Users may need to be approved by host to attend event and gather more information like address.
-
-- Way to create a private or public event.
-
-- Private events may be visible by link only or by those that follow you.
-
-- The app should allow users to post updates and photos about events
-
-- Users should be able to see who is attending events (user can make this public or private for privacy reasons)
-
-- The ability to save events to a calendar or to-do list
-
-- The feature to see events near you on a map.
-
-- The feature to rate and review events
-
-- The feature to make events paid or free. Can buy tickets directly through the app.
-
-- Users can “retweet” the events they’re joining to their followers.
 
 **THESE WILL BE SPLIT INTO CORE AND STRETCH FEATURES**
 
