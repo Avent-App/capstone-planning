@@ -17,6 +17,7 @@ The main purpose of our project is to to provide networking and excursion opport
 User:
   Host
   Intern
+
 Developer
 
 ## User Stories
