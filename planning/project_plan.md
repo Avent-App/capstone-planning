@@ -14,7 +14,10 @@ The main purpose of our project is to to provide networking and excursion opport
 
 ## User Roles and Personas
 
-Include the most up-to-date user roles and personas.
+User:
+  Host
+  Intern
+Developer
 
 ## User Stories
 
