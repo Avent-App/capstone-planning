@@ -50,21 +50,21 @@ Personas:
   
 ## User Stories
 
-List the current user stories you will implement.
+List the current user stories you will implement: [Notion link with user stories](https://advent-app.notion.site/User-Stories-79d0cbdd1d9a43939e414bf0a25b5584)
 
 ## Pages/Screens
 
-List all the pages and screens in the app: (notion link)[https://advent-app.notion.site/User-Stories-79d0cbdd1d9a43939e414bf0a25b5584]
+List all the pages and screens in the app: 
 
-
+Show wireframes for at least 3 of them: [Figma link](https://www.figma.com/file/zkHTcf12okEsg0OLU2AZwa/Avent-App?node-id=0%3A1)
 
 
 ## Data Model
 
-Describe your app's data model using diagrams or tables
+Describe your app's data model using diagrams or tables: [Notion link with data models](https://www.figma.com/file/dgE3UkEDrVKBr37VUWKzCO/Relational-Database-Diagram---Component-Kit-(Community)?node-id=3%3A728)
 
 ## Endpoints
 
-List the API endpoints you will need to implement.
+List the API endpoints you will need to implement: [Notion link with Endpoints](https://advent-app.notion.site/Endpoints-50044a84683b44ed9fb6443eddf5d06d)
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
