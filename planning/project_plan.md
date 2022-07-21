@@ -54,7 +54,10 @@ List the current user stories you will implement.
 
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+List all the pages and screens in the app: (notion link)[https://advent-app.notion.site/User-Stories-79d0cbdd1d9a43939e414bf0a25b5584]
+
+
+
 
 ## Data Model
 
