@@ -68,7 +68,7 @@ List all the pages and screens in the app:
 
 Show wireframes for at least 3 of them: [Figma link](https://www.figma.com/file/zkHTcf12okEsg0OLU2AZwa/Avent-App?node-id=0%3A1)
 
-![Landing Page](https://user-images.githubusercontent.com/85651695/180579494-dee4185a-4c73-41ea-aca5-0be167cfed56.png)
+![Landing Page](https://user-images.githubusercontent.com/85651695/180579625-bf94bab2-aefe-451d-bb03-c13503168b7e.jpg)
 
 ![Login Page](https://user-images.githubusercontent.com/85651695/180579506-6898bde9-650d-47aa-ad2f-14b29724822f.png)
 
