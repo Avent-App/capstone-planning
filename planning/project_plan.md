@@ -95,20 +95,15 @@ List the API endpoints you will need to implement: [Notion link with endpoints](
 
 ### Tables
 
-<img width="885" alt="Screen Shot 2022-07-22 at 3 54 41 PM" src="https://user-images.githubusercontent.com/85651695/180578333-e40c5453-a140-492b-80a7-cc0bff0a22d0.png">
+<img width="836" alt="Screen Shot 2022-07-22 at 3 57 57 PM" src="https://user-images.githubusercontent.com/85651695/180578564-53116bc8-1d2a-4fb6-a31b-4deea185e39d.png">
 
+<img width="854" alt="Screen Shot 2022-07-22 at 3 58 26 PM" src="https://user-images.githubusercontent.com/85651695/180578590-41e82b6e-7a3f-4931-8c4c-31b67207c09a.png">
 
-<img width="1023" alt="Screen Shot 2022-07-22 at 3 50 11 PM" src="https://user-images.githubusercontent.com/85651695/180578054-7f02ddbc-6922-424c-972e-cd013478709b.png">
+<img width="846" alt="Screen Shot 2022-07-22 at 3 58 54 PM" src="https://user-images.githubusercontent.com/85651695/180578619-a0ef4767-0bad-484a-a45e-d0d65b2db758.png">
 
+<img width="851" alt="Screen Shot 2022-07-22 at 3 59 20 PM" src="https://user-images.githubusercontent.com/85651695/180578641-f9470b7e-3c0c-4b2d-a492-dfefce7ff886.png">
 
-
-
-
-
-
-
-
-
+<img width="850" alt="Screen Shot 2022-07-22 at 3 59 44 PM" src="https://user-images.githubusercontent.com/85651695/180578673-70306194-1f9f-46e8-9cd8-885ed293f300.png">
 
 
 
