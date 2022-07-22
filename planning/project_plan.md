@@ -55,9 +55,24 @@ List the current user stories you will implement: [Notion link with user stories
 ## Pages/Screens
 
 List all the pages and screens in the app: 
+- Landing Page
+- Login Page
+- Register Page
+- Feed Page
+- Event Detail Page
+- Create Event Page
+- Settings Page 
+- View RSVP'd Events Page
+- View My Event Listings Page
+- View Payment Options
 
 Show wireframes for at least 3 of them: [Figma link](https://www.figma.com/file/zkHTcf12okEsg0OLU2AZwa/Avent-App?node-id=0%3A1)
 
+![Landing Page](https://user-images.githubusercontent.com/85651695/180579494-dee4185a-4c73-41ea-aca5-0be167cfed56.png)
+
+![Login Page](https://user-images.githubusercontent.com/85651695/180579506-6898bde9-650d-47aa-ad2f-14b29724822f.png)
+
+![Feed Page](https://user-images.githubusercontent.com/85651695/180579539-4e1d4947-be5f-4fc0-9bdb-48fb13c66d66.png)
 
 ## Data Model
 
