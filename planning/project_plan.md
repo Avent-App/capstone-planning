@@ -66,7 +66,7 @@ Describe your app's data model using diagrams or tables: [Notion link with data 
 ## Endpoints
 
 List the API endpoints you will need to implement: [Notion link with endpoints](https://advent-app.notion.site/Endpoints-50044a84683b44ed9fb6443eddf5d06d)
-# Bullet List Endpoints
+### Bullet List Endpoints
 
 - Auth route
 1. POST /auth/login
