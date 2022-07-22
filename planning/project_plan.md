@@ -61,7 +61,10 @@ Show wireframes for at least 3 of them: [Figma link](https://www.figma.com/file/
 
 ## Data Model
 
-Describe your app's data model using diagrams or tables: [Notion link with data models](https://www.figma.com/file/dgE3UkEDrVKBr37VUWKzCO/Relational-Database-Diagram---Component-Kit-(Community)?node-id=3%3A728)
+Describe your app's data model using diagrams or tables: [Figma link with data models](https://www.figma.com/file/dgE3UkEDrVKBr37VUWKzCO/Relational-Database-Diagram---Component-Kit-(Community)?node-id=3%3A728)
+
+<img width="1297" alt="Screen Shot 2022-07-22 at 4 05 28 PM" src="https://user-images.githubusercontent.com/85651695/180579006-34df6399-a56e-47ad-87b1-4591e8832180.png">
+
 
 ## Endpoints
 
