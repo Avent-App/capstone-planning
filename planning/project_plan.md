@@ -93,4 +93,8 @@ List the API endpoints you will need to implement: [Notion link with endpoints](
 2. GET /comment/:commentId
 3. GET /comments/:commentsectionid
 
+
+<img width="1023" alt="Screen Shot 2022-07-22 at 3 50 11 PM" src="https://user-images.githubusercontent.com/85651695/180578054-7f02ddbc-6922-424c-972e-cd013478709b.png">
+
+
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
