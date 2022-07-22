@@ -66,5 +66,31 @@ Describe your app's data model using diagrams or tables: [Notion link with data 
 ## Endpoints
 
 List the API endpoints you will need to implement: [Notion link with endpoints](https://advent-app.notion.site/Endpoints-50044a84683b44ed9fb6443eddf5d06d)
+## Bullet List Endpoints
+
+- Auth route
+1. POST /auth/login
+2. POST /auth/register
+3. GET /auth/me
+
+- Users route
+1. GET /user/:userId
+2. PUT /user/:userId
+
+- Event route
+1. POST /event/create
+2. GET   /event/ 
+3. GET /event/:eventId
+4. PUT /event/
+5. DELETE /event/:eventId
+
+- Reservations route
+1. GET /reservations
+2. DELETE /reservations
+
+- Comments route
+1. POST /comment/create
+2. GET /comment/:commentId
+3. GET /comments/:commentsectionid
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
