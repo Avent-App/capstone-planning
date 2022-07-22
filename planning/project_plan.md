@@ -124,6 +124,3 @@ List the API endpoints you will need to implement: [Notion link with endpoints](
 
 <img width="850" alt="Screen Shot 2022-07-22 at 3 59 44 PM" src="https://user-images.githubusercontent.com/85651695/180578673-70306194-1f9f-46e8-9cd8-885ed293f300.png">
 
-
-
-***Don't forget to set up your Issues, Milestones, and Project Board!***
