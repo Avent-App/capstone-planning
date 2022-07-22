@@ -91,6 +91,8 @@ List the current user stories you will implement: [Notion link with user stories
     - [ ]  Acceptance criteria: Top navbar including the hero on the left end, a setting button on the right, and a “+” button. A search bar to filter event cards, and a 3x3 grid of events I have available to me.
     - Estimated time: 8 hours
 
+New and polished user stories can be found in our Github Project Kanban Board found [here](https://github.com/orgs/Avent-App/projects/2)
+
 ## Pages/Screens
 
 List all the pages and screens in the app: 
