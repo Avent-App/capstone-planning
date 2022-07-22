@@ -1,6 +1,6 @@
 # Project Plan
 
-Team Name: The Avent App
+Team Name: The Avent Team
 
 Pod Members: Daniel Ortiz, David Barcenas, Eva Sennrich
 
