@@ -98,11 +98,40 @@ List the API endpoints you will need to implement: [Notion link with endpoints](
 
 
 
+
+
+
+
+
+
+
 name,                           tag,            code,           status,    description
 identity,                       multihash,      0x00,           permanent, raw binary
 cidv1,                          cid,            0x01,           permanent, CIDv1
 cidv2,                          cid,            0x02,           draft,     CIDv2
 cidv3,                          cid,            0x03,           draft,     CIDv3
+
+
+
+
+
+name,                           tag,            code,           status,    description
+identity,                       multihash,      0x00,           permanent, raw binary
+cidv1,                          cid,            0x01,           permanent, CIDv1
+cidv2,                          cid,            0x02,           draft,     CIDv2
+cidv3,                          cid,            0x03,           draft,     CIDv3
+ip4,                            multiaddr,      0x04,           permanent,
+tcp,                            multiaddr,      0x06,           permanent,
+sha1,                           multihash,      0x11,           permanent,
+sha2-256,                       multihash,      0x12,           permanent,
+sha2-512,                       multihash,      0x13,           permanent,
+sha3-512,                       multihash,      0x14,           permanent,
+sha3-384,                       multihash,      0x15,           permanent,
+sha3-256,                       multihash,      0x16,           permanent,
+sha3-224,                       multihash,      0x17,           permanent,
+
+
+
 
 
 
